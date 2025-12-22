@@ -1,0 +1,7 @@
+## Interface: 110207
+## Title: CombatState
+## Notes: Combat enter/leave indicator with fade out
+## Author: You
+## Version: 1.3
+
+CombatState.lua
