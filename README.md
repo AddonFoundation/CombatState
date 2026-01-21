@@ -87,6 +87,5 @@ Feel free to modify, fork, and redistribute.
 
 ## Author
 
-Created by **You**  
 Built for players who value clarity, performance, and simplicity.
 
