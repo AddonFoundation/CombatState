@@ -2,6 +2,6 @@
 ## Title: CombatState
 ## Notes: Combat enter/leave indicator with fade out
 ## Author: You
-## Version: 12.0.1
+## Version: 1.0.0
 
 CombatState.lua
